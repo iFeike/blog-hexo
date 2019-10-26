@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TigerFuny
-subtitle: Welcome to blog of ifeike.
-description: this is fu title
+sititle: 虎趣博客
+title: 虎趣
+subtitle: TigerFuny
+description: 
 keywords: keyword
-author: John Doe
-language: en
-timezone:
+author: TigerFuny Technology Co., Ltd. All rights reserved.
+language: cn
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

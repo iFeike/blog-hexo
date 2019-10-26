@@ -1,8 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  主页: /
+  档案: /archives
+rss: https://github.com/ifeike
 
 # Content
 excerpt_link: Read More
